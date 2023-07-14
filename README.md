@@ -3,7 +3,7 @@ this utility allows you to send SMS to any phone number from any name with any c
 
 ![alt-text](https://i.imgur.com/hk6Istm.png)
 
-## f.a.q
+## FAQ
 **(?) is this free?**
 unfortunately this program is just utility that works on API of big sms gateway, and this gateway takes money from every sms that you send
 
